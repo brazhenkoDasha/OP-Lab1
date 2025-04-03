@@ -20,7 +20,7 @@ A program for converting 4-byte signed integers between number systems: binary, 
 
 - Input/output fields for numbers
 - Conversion button
-- System selection via ComboBox and RadioButton
+- System selection via ComboBox 
 - Error message field
 
 ## Usage
